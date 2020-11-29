@@ -1,8 +1,8 @@
 # Site settings
 title: Gabriel Halpern
 description: Gabriel Halpern
-baseurl: "halpern.dev" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "#" # the subpath of your site, e.g. /blog
+url: "https://halpern.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Gabriel Halpern
